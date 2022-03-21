@@ -10,7 +10,7 @@ if(!empty($sesiData['status']['msg'])){
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Sistem registrasi dan login </title>
+    <title>Sistem registrasi dan login aldo rihi </title>
     <link rel="stylesheet" href="style.css" type="text/css" media="all" />
 </head>
 <body>
